@@ -2,7 +2,16 @@
 
 This repository contains the data preparation and cleaning phase for a project analyzing sustainable development and global energy indicators (2000–2020). The primary goal was to transform raw, noisy datasets into a validated format optimized for advanced visualization in Tableau.
 
-## Final result: https://public.tableau.com/app/profile/.81143039/viz/EnergyWealthThePlanetAGlobalDivide_/TheGlobalEnergyDivide
+**Why this project?**
+* **To bridge the gap between raw data and insights:** I wanted to build a robust **ETL pipeline** that transforms messy, real-world datasets into clean, reliable data ready for decision-making.
+* **To analyze the correlation between economic growth and environmental impact:** specifically, testing the hypothesis that higher GDP doesn't always correlate with higher CO2 emissions per capita due to renewable energy adoption.
+* **To practice end-to-end Data Analysis:** from Data Cleaning and Feature Engineering in **Python (Pandas)** to building interactive dashboards in **Tableau**.
+
+This project simulates a real-world task of a Data Analyst: taking inconsistent data from multiple sources and turning it into a clear visual narrative for stakeholders.
+
+## Final Result
+Explore the interactive dashboard here:
+[**The Global Energy Divide (Tableau Public)**](https://public.tableau.com/app/profile/.81143039/viz/EnergyWealthThePlanetAGlobalDivide_/TheGlobalEnergyDivide)
 
 ## Data Dictionary
 
