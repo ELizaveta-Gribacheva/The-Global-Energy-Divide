@@ -2,6 +2,8 @@
 
 This repository contains the data preparation and cleaning phase for a project analyzing sustainable development and global energy indicators (2000–2020). The primary goal was to transform raw, noisy datasets into a validated format optimized for advanced visualization in Tableau.
 
+## Final result: https://public.tableau.com/app/profile/.81143039/viz/EnergyWealthThePlanetAGlobalDivide_/TheGlobalEnergyDivide
+
 ## Data Dictionary
 
 | Column | Description |
